@@ -1,2 +1,2 @@
-# heart-disease-analysis
-This is my heart-disease-analysis project
+# Heart-disease-analysis
+This is a heart disease analysis project
